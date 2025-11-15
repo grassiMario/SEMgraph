@@ -43,3 +43,7 @@ SEMgraph training:
 devtools::install_github("fernandoPalluzzi/SEMdata")
 ```
 
+## Getting help
+
+The full list of **SEMgraph** functions with examples is available [**HERE**](https://fernandopalluzzi.github.io/SEMgraph/).
+&nbsp;
